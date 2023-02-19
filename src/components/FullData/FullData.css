@@ -1,0 +1,43 @@
+.comp-section {
+    width: 70%;
+    height: 60%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+
+.comp-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.comp-card .listimage {
+    width: 500px;
+    height: 550px;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.rating {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-text {
+    margin: 12px;
+}
+
+.allbtn {
+
+    margin-bottom: 20px;
+}
+
+.btn i {
+    margin-left: 12px;
+}

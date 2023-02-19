@@ -1,0 +1,35 @@
+.cartNavbar {
+    background-color: #e40046;
+    width: 100%;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.complogo {
+    margin-left: 100px;
+}
+
+.compcontainer {
+    width: 50px;
+    height: 50px;
+    background-color: #dad7d8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 50px;
+    margin-left: 16%;
+}
+
+.secondnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.secondnav .total {
+    margin-right: 18%;
+}
